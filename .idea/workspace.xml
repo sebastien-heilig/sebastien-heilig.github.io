@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f1ee2bb-7804-4d14-9567-d323fc31e6f5" name="Changes" comment="New test">
-      <change afterPath="$PROJECT_DIR$/en/assets/i18n/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/i18n/fr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Atos_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/BIL_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/CG57_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Davidson_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Fps_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Its4u_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Lalux_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Luxpayroll_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Optimus_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/SES_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/Tango_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/UEM_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/alecsandre.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cagil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-java.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-kotlin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-python.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-typescript.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/cil-menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/divya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/florent_weiler.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/florin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/gmail2_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/gmail_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/guillaume_bouchon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/jamal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/jeanseb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/john_doe.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/juanjo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/linkedin2_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/linkedin_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/logo_white_back.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/maxime_verschelde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/nicolas_schwartz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/nikos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/seb4code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/takeshi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/theo_sellem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/tiago_mussi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/vincent_arnal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/assets/images/yannick_kpodzo.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="9f1ee2bb-7804-4d14-9567-d323fc31e6f5" name="Changes" comment="New test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -346,7 +299,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730386916709</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386983277</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386983277</updated>
+    </task>
+    <task id="LOCAL-00034" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730387009369</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1730387009369</updated>
+    </task>
+    <task id="LOCAL-00035" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730387020018</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1730387020018</updated>
+    </task>
+    <task id="LOCAL-00036" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730387267411</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1730387267411</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
