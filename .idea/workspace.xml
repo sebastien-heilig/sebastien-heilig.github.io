@@ -5,16 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f1ee2bb-7804-4d14-9567-d323fc31e6f5" name="Changes" comment="New test">
-      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/main-AVHGWJ33.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/styles-6B4WHL7T.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-AVHGWJ33.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polyfills-QEJNHLOT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles-6B4WHL7T.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/i18n/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Atos_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/BIL_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/CG57_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Davidson_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Fps_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Its4u_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Lalux_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Luxpayroll_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Optimus_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/SES_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/Tango_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/UEM_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/alecsandre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cagil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-kotlin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cib-typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/cil-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/divya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/florent_weiler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/florin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/gmail2_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/gmail_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/guillaume_bouchon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/jamal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/jeanseb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/john_doe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/juanjo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/linkedin2_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/linkedin_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/logo_white_back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/maxime_verschelde.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/nicolas_schwartz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/nikos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/seb4code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/takeshi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/theo_sellem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/tiago_mussi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/vincent_arnal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/en/assets/images/yannick_kpodzo.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +60,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oCDfp4zuevlTo4WzpVPdypg7Jb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projets/workspace/github-page/cv"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projets/workspace/github-page/cv&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projets\workspace\github-page\cv\" />
@@ -262,7 +298,55 @@
       <option name="project" value="LOCAL" />
       <updated>1730385272685</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386530060</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386530060</updated>
+    </task>
+    <task id="LOCAL-00028" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386654107</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386654107</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386666009</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386666009</updated>
+    </task>
+    <task id="LOCAL-00030" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386686590</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386686590</updated>
+    </task>
+    <task id="LOCAL-00031" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386760078</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386760078</updated>
+    </task>
+    <task id="LOCAL-00032" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730386916709</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386916709</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
