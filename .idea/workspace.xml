@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f1ee2bb-7804-4d14-9567-d323fc31e6f5" name="Changes" comment="New test">
+      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/main-AVHGWJ33.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/styles-6B4WHL7T.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-AVHGWJ33.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfills-QEJNHLOT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles-6B4WHL7T.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oCDfp4zuevlTo4WzpVPdypg7Jb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projets/workspace/github-page/cv"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projets\workspace\github-page\cv\" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f1ee2bb-7804-4d14-9567-d323fc31e6f5" name="Changes" comment="" />
+      <created>1730364769980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730364769980</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730364905815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730364905815</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730368536204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730368536204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730369141830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730369141830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730369586128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730369586128</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730369598149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730369598149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Move the content at root level">
+      <option name="closed" value="true" />
+      <created>1730369771498</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730369771498</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730370267193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730370267193</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730370590886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730370590886</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730370851954</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730370851954</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730371194591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730371194591</updated>
+    </task>
+    <task id="LOCAL-00011" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730371599287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730371599287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730371725099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730371725099</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730372236254</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730372236254</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730372789771</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730372789771</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730372849204</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730372849204</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730373009219</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730373009219</updated>
+    </task>
+    <task id="LOCAL-00017" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730379434022</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730379434022</updated>
+    </task>
+    <task id="LOCAL-00018" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730383950906</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730383950906</updated>
+    </task>
+    <task id="LOCAL-00019" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384102485</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384102485</updated>
+    </task>
+    <task id="LOCAL-00020" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384262539</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384262539</updated>
+    </task>
+    <task id="LOCAL-00021" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384301510</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384301510</updated>
+    </task>
+    <task id="LOCAL-00022" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384313650</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384313650</updated>
+    </task>
+    <task id="LOCAL-00023" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384472132</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384472132</updated>
+    </task>
+    <task id="LOCAL-00024" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384478279</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384478279</updated>
+    </task>
+    <task id="LOCAL-00025" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730384565301</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730384565301</updated>
+    </task>
+    <task id="LOCAL-00026" summary="New test">
+      <option name="closed" value="true" />
+      <created>1730385272685</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730385272685</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Move the content at root level" />
+    <MESSAGE value="New test" />
+    <option name="LAST_COMMIT_MESSAGE" value="New test" />
+  </component>
+</project>
